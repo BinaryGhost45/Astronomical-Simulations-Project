@@ -60,5 +60,6 @@ Your support, suggestions, and feedback are highly appreciated.
 
 ---
 
-**Author:**   Binary_Ghost45
+**Author:**  Binary_Ghost45
+
 **GitHub:** (https://github.com/BinaryGhost45)
